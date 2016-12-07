@@ -1,0 +1,7 @@
+   Packers                 Lions                Seahawks              Bears
+ 4      John m         7     Grant m         3    Austin m         8      Juan m
+34       Ben m        45     Dylan m        17     Ethan m        15     Blake m
+ 8     Harry m        19   Trenton m        13     Chris m        67    Jordan m
+12     Sally f        32   Caitlyn f         9  Courtney f        19     Riley f
+ 9     Betty f         1     Sarah f        28     Misty f        18     Erika f
+22     Mabel f        18   Madison f        15      Lily f        24     Addie f
