@@ -1,0 +1,9 @@
+   Redsocks                 Cubs                Royals               Yankees
+10      John m        07     Grant m        03    Austin m        08      Juan m
+34       Ben m        45     Dylan m        17     Ethan m        15     Blake m
+17     Harry m        19   Trenton m        13     Chris m        67    Jordan m
+45    Marcus m        78     Frank m        56      Brad m        90    Victor m
+22     Sally f        32   Caitlyn f        09  Courtney f        19     Riley f
+47     Betty f        01     Sarah f        28     Misty f        18     Erika f
+99     Mabel f        18   Madison f        15      Lily f        24     Addie f
+12    Hannah f        99      Mary f        01   Barbara f        17    Grayce f
