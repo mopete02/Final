@@ -1,0 +1,8 @@
+1. The purpose is to move the ball down the field into the other teams end zone.
+2. You have four downs to make it ten yards, where the downs then reset to one.
+3. If you do not make it ten yards, the ball is turned over to the other team, however the ball is usually punted down field on fourth down.
+4. A touchdown is worth six points, and is scored when a player crosses the goal line with the ball, or catches the ball in the end zone.
+5. A field goal is worth three points, and is often kicked on fourth down when a team is close enough to the end zone.
+6. An extra point is scored after a touchdown when a team successfully kicks the ball between the uprights.
+7. A team may choose instead to go for two extra points by taking the ball to the end zone again.
+8. Two points is awarded to the defensive team for a safety when a player on the offensive team is tackled in their own end zone.
