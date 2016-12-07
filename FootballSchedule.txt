@@ -1,0 +1,6 @@
+20170301   Redsocks   00   Cubs      00
+20170303     Royals   00   Yankees   00
+20170307       Cubs   00   Royals    00
+20170309    Yankees   00   Redsocks  00
+20170312   Redsocks   00   Royals    00
+20170315    Yankees   00   Cubs      00
