@@ -1,0 +1,6 @@
+20170302      Bears   0   Seahawks   0
+20170305      Lions   0   Packers    0
+20170306   Seahawks   0   Lions      0
+20170310    Packers   0   Bears      0
+20170315      Lions   0   Bears      0
+20170316   Seahawks   0   Packers    0
